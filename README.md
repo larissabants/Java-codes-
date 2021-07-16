@@ -1,5 +1,5 @@
 # Atividades de LG2
 
-Neste repositório estarei colocando códigos da matéria de LG2.
+Códigos realizados em liguagem Java para a matéria de Lógica 2 do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
 
-by: Larissa Barros dos Santos
+
